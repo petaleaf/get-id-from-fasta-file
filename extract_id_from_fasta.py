@@ -1,5 +1,5 @@
 # @Time     :  16:00
-# @Author   : 谈佳瑞
+# @Author   : petaleaf
 # @FileName : extract_id_from_fasta.py
 # @Software : Pycharm
 
